@@ -42,6 +42,11 @@ Plug 'scrooloose/nerdtree'
 Plug 'maximbaz/lightline-ale'
 Plug 'itchyny/lightline.vim'
 
+" 42Header
+Plug '42Paris/42header'
+let g:user42 = 'jperez'
+let g:mail42 = 'jperez@student.42urduliz.com'
+
 call plug#end()
 
 " ================
